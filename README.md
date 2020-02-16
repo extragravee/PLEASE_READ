@@ -12,7 +12,7 @@ I have done projects such as:
   <li> Shadow Build minigame (Java) - Can create different units, and mine resources in order to mine "unobtanium", goal is to mine it as efficiently as possible </li>
   <li> Big Data project (Python, SQL) - Queried, wrangled, refined and completed data, formed an object oriented software system to divide UniMelb subject usage data by faculties, and reported time-series visualisations to show how academics used Learning Management Systems for their subjects over time </li>
     
-<ol>
+</ol>
 </br>
 I am very happy to provide you access to any of these files if you are interested (if you are an employer, or non-current UniMelb student), but I am unable to make them public. Please shoot me an email at singhsidak@ymail.com for access.
 
