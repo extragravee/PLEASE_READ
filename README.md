@@ -16,5 +16,5 @@ I have done projects such as:
 </br>
 I am very happy to provide you access to any of these files if you are interested (if you are an employer, or non-current UniMelb student), but I am unable to make them public. Please shoot me an email at singhsidak@ymail.com for access.
 
-Cheers!
+Cheers!<br/>
 Sidak
